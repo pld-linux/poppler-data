@@ -1,12 +1,12 @@
 Summary:	Encoding files for poppler
 Summary(pl.UTF-8):	Pliki kodowań dla popplera
 Name:		poppler-data
-Version:	0.4.0
+Version:	0.4.3
 Release:	1
 License:	distributable
 Group:		Libraries
 Source0:	http://poppler.freedesktop.org/%{name}-%{version}.tar.gz
-# Source0-md5:	6975bf8e9ea2cfb42b9ecdbcc257cf57
+# Source0-md5:	2d648047e5d0b315df1571b460ee6a96
 URL:		http://poppler.freedesktop.org/
 Requires:	poppler >= 0.5.4
 BuildArch:	noarch
